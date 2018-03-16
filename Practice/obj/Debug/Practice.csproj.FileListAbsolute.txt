@@ -1,0 +1,9 @@
+c:\users\орунбаевас\documents\visual studio 2017\Projects\SP_Lesson3\Practice\bin\Debug\Practice.exe.config
+c:\users\орунбаевас\documents\visual studio 2017\Projects\SP_Lesson3\Practice\bin\Debug\Practice.exe
+c:\users\орунбаевас\documents\visual studio 2017\Projects\SP_Lesson3\Practice\bin\Debug\Practice.pdb
+c:\users\орунбаевас\documents\visual studio 2017\Projects\SP_Lesson3\Practice\obj\Debug\Practice.csprojResolveAssemblyReference.cache
+c:\users\орунбаевас\documents\visual studio 2017\Projects\SP_Lesson3\Practice\obj\Debug\Practice.Form1.resources
+c:\users\орунбаевас\documents\visual studio 2017\Projects\SP_Lesson3\Practice\obj\Debug\Practice.Properties.Resources.resources
+c:\users\орунбаевас\documents\visual studio 2017\Projects\SP_Lesson3\Practice\obj\Debug\Practice.csproj.GenerateResource.Cache
+c:\users\орунбаевас\documents\visual studio 2017\Projects\SP_Lesson3\Practice\obj\Debug\Practice.exe
+c:\users\орунбаевас\documents\visual studio 2017\Projects\SP_Lesson3\Practice\obj\Debug\Practice.pdb
